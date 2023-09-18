@@ -9,6 +9,10 @@
   <a href="https://t.me/n_hrushanyk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="mailto:nataliia.hrushanyk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
 </div>
 
 <div id="counter" align="center">
