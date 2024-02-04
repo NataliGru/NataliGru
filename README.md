@@ -15,8 +15,8 @@
   
 </div>
 
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=NataliGru&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <a href="https://u8views.com/github/NataliGru"><img src="https://u8views.com/api/v1/github/profiles/133240440/views/day-week-month-total-count.svg"></a>
 </div>
 
 <h1>
