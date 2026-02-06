@@ -25,7 +25,7 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- I am a Full-Stack Developer <img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="70px"/>
+- I am a Front-end Developer <img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="70px"/>
 - Built pixel-perfect, responsive webpages <img src="https://media.giphy.com/media/8BDQnNDcocWSnHZLPB/giphy.gif" width="70px"/>
 - Actively participated in a collaborative project (frontend/backend) <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="70px"/>
 - Conducted code reviews and resolved bugs <img src="https://media.giphy.com/media/XBkrncgQo6hfdQeaLf/giphy.gif" width="50px"/>
