@@ -25,11 +25,18 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- I am a Front-end Developer <img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="70px"/>
-- Built pixel-perfect, responsive webpages <img src="https://media.giphy.com/media/8BDQnNDcocWSnHZLPB/giphy.gif" width="70px"/>
-- Actively participated in a collaborative project (frontend/backend) <img src="https://media.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="70px"/>
-- Conducted code reviews and resolved bugs <img src="https://media.giphy.com/media/XBkrncgQo6hfdQeaLf/giphy.gif" width="50px"/>
-- Invested over 700 hours in continuous learning <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="70px"/>
+Frontend Developer from Ukraine 🇺🇦
+
+Working mostly with React, Next.js and TypeScript.
+I enjoy building real products, complex interfaces and improving user experience step by step.
+
+Over the past few years I worked on:
+- EdTech platforms
+- e-commerce systems
+- admin dashboards
+- AI-related products
+
+I especially like projects where I can think not only about implementation, but also about structure, UX and how features evolve over time.
 
 ---
 
@@ -53,5 +60,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliGru&theme=dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliGru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
